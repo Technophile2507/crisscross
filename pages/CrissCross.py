@@ -178,6 +178,7 @@ if uid and name and mobile:
                 # Display winner or loser message
                 if is_winner:
                     st.success("Congratulations! You are the winner!")
+                    st.balloons()
                 else:
                     st.info("Good try! Better luck next time.")
             else:
