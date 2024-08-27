@@ -22,12 +22,13 @@ st.markdown("""
 # Instructions
 st.markdown("""
     ## 📝 How to Play:
-    1. **Unique ID**: Start by entering your **UID** (Unique ID). This ensures you can participate in the game only once. 🚪
-    2. **Name & Mobile**: Fill in your name and mobile number to track your progress. 📱
-    3. **Clues**: Read the clues carefully and enter the corresponding portal or service name in the text fields provided. 🕵️‍♂️
-    4. **Submit**: Once you've filled in all the answers, hit the **Submit** button! 📤
-    5. **Score**: Your score will be calculated based on the accuracy of your answers. 🏅
-    6. **Winner**: The fastest person with all correct answers will be crowned the **winner**! 🏆
+    1. Click on the ** > ** icon on the Top left of the page & Select **CrissCross to Start the Game.**
+    2. **Unique ID**: Start by entering your **UID** (Unique ID). This ensures you can participate in the game only once. 🚪
+    3. **Name & Mobile**: Fill in your name and mobile number to track your progress. 📱
+    4. **Clues**: Read the clues carefully and enter the corresponding portal or service name in the text fields provided. 🕵️‍♂️
+    5. **Submit**: Once you've filled in all the answers, hit the **Submit** button! 📤
+    6. **Score**: Your score will be calculated based on the accuracy of your answers. 🏅
+    7. **Winner**: The fastest person with all correct answers will be crowned the **winner**! 🏆
 
     ## 🚨 Important Notes:
     - Make sure all fields are filled before submitting.
