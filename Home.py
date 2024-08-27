@@ -22,7 +22,7 @@ st.markdown("""
 # Instructions
 st.markdown("""
     ## 📝 How to Play:
-    1. Click on the ** > ** icon on the Top left of the page & Select **CrissCross to Start the Game.**
+    1. **Click on the > icon on the Top left of the page & Select CrissCross to Start the Game.**
     2. **Unique ID**: Start by entering your **UID** (Unique ID). This ensures you can participate in the game only once. 🚪
     3. **Name & Mobile**: Fill in your name and mobile number to track your progress. 📱
     4. **Clues**: Read the clues carefully and enter the corresponding portal or service name in the text fields provided. 🕵️‍♂️
