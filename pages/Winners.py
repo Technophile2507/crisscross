@@ -39,7 +39,7 @@ def update_dashboard():
         st.write(f"**Time Taken:** {winners_data.iloc[0]['Time Taken']} seconds")
         
         st.subheader("🎉 All Winners")
-        st.dataframe(winners_data[['UID', 'Name', 'Mobile', 'Time Taken']])
+        st.dataframe(winners_data[['UID', 'Name', 'Mobile', 'Time Taken']], hide_index=True)
 
 # Initial dashboard update
 update_dashboard()
